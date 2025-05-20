@@ -1,9 +1,12 @@
 # E-Commerce sales data analysis
-![image alt](www)
 📌Project Description:
 ----------------------------------
 -----------------------------------
-🍔 This Power BI project focuses on analyzing e-commerce sales data for a food delivery platform. The dashboard is designed to uncover customer behaviors, purchasing trends, and sales performance across demographics, devices, and locations. It provides actionable insights for marketing, growth, and product teams to make informed business decisions. 
+ This Power BI project focuses on analyzing e-commerce sales data for a food delivery platform. The dashboard is designed to uncover customer behaviors, purchasing trends, and sales performance across demographics, devices, and locations. It provides actionable insights for marketing, growth, and product teams to make informed business decisions. 
+
+![image alt](https://github.com/Anandakrishh/E-Commerce_Sales_analysis_BI/blob/b7399a12c6b723f68a69a76a76a33aae346a7873/Screenshot%202025-05-20%20162651.png)
+![image alt](https://github.com/Anandakrishh/E-Commerce_Sales_analysis_BI/blob/b7399a12c6b723f68a69a76a76a33aae346a7873/Screenshot%202025-05-20%20162713.png)
+![image alt](https://github.com/Anandakrishh/E-Commerce_Sales_analysis_BI/blob/b7399a12c6b723f68a69a76a76a33aae346a7873/Screenshot%202025-05-20%20162731.png)
 
 📌 Tools and Techniques:
 -------------------------------
