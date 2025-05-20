@@ -31,5 +31,6 @@ Understand which payment methods (Google Pay, PayPal, Apple Pay, Credit Card) dr
 
 🔹 Q5. Where are we losing customers in the purchase funnel?
 
-Examine the drop-off between products viewed, added to cart, and purchased items to uncover friction points in the conversion funnel and suggest UX or promotional improvements.
-
+ Conclusion:
+----------------------------------
+The Power BI dashboard offers a clear snapshot of customer behavior and sales trends across regions, devices, and age groups. It highlights that mid-aged users and desktop devices contribute the most to revenue, while Google Pay leads in payment preferences. The conversion funnel reveals a significant drop-off from product views to purchases, suggesting areas for UX improvement.
